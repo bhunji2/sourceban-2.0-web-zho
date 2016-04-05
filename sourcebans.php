@@ -13,7 +13,7 @@
  *
  * Message string can be used with plural forms format. Check i18n section
  * of the guide for details.
- *
+ *test by Tast
  * NOTE, this file must be saved in UTF-8 encoding.
  */
 return array(
